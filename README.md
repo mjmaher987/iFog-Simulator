@@ -24,4 +24,5 @@ iFogSim\src\org\fog\test\perfeval\CrowdSensing_Microservices_RandomMobility_Clus
 
 ## Tasks
 - [x] Task 1 -> Done
-- [ ] Task 2 : Read the article related to the main topic
+- [x] Task 2 : Read the article related to the main topic
+- [ ] Task 3: Finalize the exact topics and clarify the tasks
